@@ -1,6 +1,5 @@
 import os
 import sys
-import logging
 import traceback
 import logging.config
 

@@ -40,3 +40,6 @@ src/
 
 # Completions Index
 completions.idx
+
+# virtualenv
+venv
